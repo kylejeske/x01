@@ -58,7 +58,7 @@
 title: "Bit by Bit"
 description: "A blog about coding, technology, and software development."
 url: "https://www.kylejeske.com"
-baseurl: "" # Leave this empty if deploying at the root of the domain
+baseurl: "/x01/" # Leave this empty if deploying at the root of the domain
 
 # Author settings
 author:
