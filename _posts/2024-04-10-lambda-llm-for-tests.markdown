@@ -3,6 +3,7 @@ layout: post
 title: "Using Lambda LLM for Generating Performance Tests"
 date: 2024-04-10
 categories: [Lambda, LLM, Performance]
+published: false
 ---
 
 Performance testing is essential for scaling applications, and one of the newer approaches is leveraging large language models (LLMs) with AWS Lambda for automated performance testing.

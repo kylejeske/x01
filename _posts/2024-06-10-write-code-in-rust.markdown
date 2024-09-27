@@ -3,6 +3,7 @@ layout: post
 title: "Writing Code in Rust"
 date: 2024-06-10
 categories: [Rust]
+published: false
 ---
 
 Rust has gained popularity for its memory safety, concurrency model, and speed. For developers looking to write more robust, efficient code, here's a quick guide to getting started with Rust.

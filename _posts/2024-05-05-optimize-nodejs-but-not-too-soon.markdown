@@ -3,6 +3,7 @@ layout: post
 title: "Tips About Optimizing Node.js & Not Optimizing Too Soon"
 date: 2024-05-05
 categories: [Node.js, Performance]
+published: false
 ---
 
 Premature optimization can be a costly mistake, especially in Node.js applications where the event-driven model handles I/O efficiently by default. Here are some practical tips to follow:

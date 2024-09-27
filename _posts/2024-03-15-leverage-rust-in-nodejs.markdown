@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leveraging napi-rs to Integrate Rust in Node.js"
-date: 2024-09-27
+date: 2024-03-15
 categories: [Node.js, Rust, napi-rs]
 ---
 
